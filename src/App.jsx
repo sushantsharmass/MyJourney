@@ -12,6 +12,8 @@ function App() {
       fov: 30,
     }}
      >
+      {/* <directionalLight/>
+      <ambientLight/> */}
       <color attach="background" args={["#ececec"]} />
       <Experience />
      </Canvas>
