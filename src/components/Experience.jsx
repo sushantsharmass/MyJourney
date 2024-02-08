@@ -138,8 +138,9 @@ export const Experience = () => {
           maxWidth={2.5}
           font={"./fonts/Inter-Regular.ttf"}
         >
-          Welcome to Wawatmos!{"\n"}
-          Have a seat and enjoy the ride!
+          Welcome!{"\n"}
+          Have a seat and enjoy the ride!{"\n"}
+          And Know my Story from beginning
         </Text>
       </group>
 
@@ -152,7 +153,7 @@ export const Experience = () => {
           maxWidth={2.5}
           font={"./fonts/DMSerifDisplay-Regular.ttf"}
         >
-          Services
+          How it started
         </Text>
         <Text
           color="white"
@@ -163,8 +164,8 @@ export const Experience = () => {
           maxWidth={2.5}
           font={"./fonts/Inter-Regular.ttf"}
         >
-          Do you want a drink?{"\n"}
-          We have a wide range of beverages!
+          School time journey{"\n"}
+          
         </Text>
       </group>
 
