@@ -121,7 +121,7 @@ export const Experience = () => {
         <group ref={airplane}>
           <Float floatIntensity={1} speed={1.5} rotationIntensity={0.5}>
             <Airplane
-              rotation-y={Math.PI / 2}
+              rotation-y={Math.PI / 1}
               scale={[0.2, 0.2, 0.2]}
               position-y={0.1}
             />
