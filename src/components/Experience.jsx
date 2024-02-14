@@ -153,7 +153,7 @@ export const Experience = () => {
           maxWidth={2.5}
           font={"./fonts/DMSerifDisplay-Regular.ttf"}
         >
-          How it started
+          Services
         </Text>
         <Text
           color="white"
@@ -164,8 +164,8 @@ export const Experience = () => {
           maxWidth={2.5}
           font={"./fonts/Inter-Regular.ttf"}
         >
-          School time journey{"\n"}
-          
+          Do you want a drink?{"\n"}
+          We have a wide range of beverages!
         </Text>
       </group>
 
